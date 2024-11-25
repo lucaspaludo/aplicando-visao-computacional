@@ -6,7 +6,7 @@ Bem-vindo ao repositório do **Aplicando de Visão Computacional**! Este reposit
 
 ## 🧠 Visão Geral
 
-Este repositório contém ferramentas, algoritmos e aplicações voltadas para a solução de problemas do mundo real usando visão computacional. Incluindo detecção de faces, reconhecimento facial, rastreamento de objetos, classificação de imagens, emoções, reconhecimento de gestos e ações, detecção de objetos com YOLO, e muito mais! Utilizamos poderosas bibliotecas e frameworks para entregar resultados de alta qualidade.
+Este repositório contém ferramentas, algoritmos e aplicações voltadas para a solução de problemas do mundo real usando visão computacional. Incluindo detecção de faces, reconhecimento facial, rastreamento de objetos, classificação de imagens, classificação de emoções, reconhecimento de gestos e ações, detecção de objetos com YOLO, e muito mais! Utilizamos poderosas bibliotecas e frameworks para entregar resultados de alta qualidade.
 
 ### Principais Funcionalidades
 - 🎯 **Detecção de Objetos**: Identificação e classificação de objetos em imagens e vídeos.
